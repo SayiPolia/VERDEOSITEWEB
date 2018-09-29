@@ -10,8 +10,8 @@ Descripción
 **•	Uso de imágenes**
 **•	Visor de fotos**
 **•	Tabla, con funciones de ordenamiento y filtro**
-**•	Uso de algún formulario  **
-**•	Animacin  **
+**•	Uso de algún formulario**
+**•	Animación**
 
 ### Esta realizado con **HTML5**, **CSS3**, **JQUERY**, **JAVASCRIPT** y **BOOTSTRAP**. 
 
